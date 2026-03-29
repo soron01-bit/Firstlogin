@@ -8,7 +8,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/12.11.0/fireba
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyCZ5PFiITrnJFHSNtABB7KzllKZudNTt8s",
+    apiKey: "AIzaSyADgEL0zawmR2qlUWTq3r2ZNJVSxFCwA4M", 
     authDomain: "login-form-122cb.firebaseapp.com",
     projectId: "login-form-122cb",
     storageBucket: "login-form-122cb.firebasestorage.app",
