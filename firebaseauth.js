@@ -68,3 +68,5 @@ function showMessage(message, divId){
         }
     })
 });
+
+const  signIn = document.getElementById("submitSignIn");
